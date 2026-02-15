@@ -1,4 +1,9 @@
 # Image Classification Models — CNN and Transformer Architectures
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Framework-red)
+![Computer Vision](https://img.shields.io/badge/Domain-Computer%20Vision-success)
+![Transformers](https://img.shields.io/badge/Models-CNN%20%7C%20ViT%20%7C%20Swin-blueviolet)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 This repository contains implementations of modern deep learning architectures for image classification using PyTorch. It includes both convolutional neural networks and transformer-based vision models, demonstrating transfer learning, training workflows, and performance evaluation on benchmark datasets.
 
